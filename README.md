@@ -8,4 +8,4 @@ Sist. Recomendación: Sistema de recomendaciones para la retención y fidelaciaz
 
 Mant. predictivo: mantenimiento predictivo con modelos de machine learning. Este proyecto genera una programación de mantenimiento con el objetivo de optmizar el tiempo de vida útil de una máquina.
 
-Six sigma-RO: Aplicación de six sigma  eleccción de la ruta óptima de la abrazadera.
+Six sigma-RO: Aplicación de six sigma y eleccción de la ruta óptima de la abrazadera.
